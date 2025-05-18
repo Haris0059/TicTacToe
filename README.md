@@ -1,6 +1,6 @@
 # TicTacToe - Java Console Game 🎮
 
-A simple console-based Tic Tac Toe game in Java where you play against a basic computer AI that makes random moves.
+A simple console-based Tic Tac Toe game in Java where you play against a basic computer that makes random moves.
 
 ## 🚀 Features
 - 3x3 Tic Tac Toe board printed in console
